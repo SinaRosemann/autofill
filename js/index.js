@@ -2,7 +2,7 @@ const search = document.getElementById('search');
 const result = document.getElementById('result');
 
 const searchStates = async searchText => {
-    const data = await fetch('https://github.com/SinaRosemann/autofill/blob/master/data/states.json');
+    const data = await fetch('data/states.json');
     const states = await data.json();
     
     // Filter matches
