@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Baden-Württemberg",
+		"capital": "Stuttgart",
+		"population": "10.624.000",
+		"size": "35752"
+	},
+	{
+		"name": "Bavaria",
+		"capital": "Munich",
+		"population": "12.563.000",
+		"size": "70552"
+	},
+	{
+		"name": "Berlin",
+		"capital": "Berlin",
+		"population": "3.415.000",
+		"size": "892"
+	},
+	{
+		"name": "Brandenburg",
+		"capital": "Potsdam",
+		"population": "2.449.000",
+		"size": "29.479"
+	},
+	{
+		"name": "Bremen",
+		"capital": "Bremen",
+		"population": "654.800",
+		"size": "419"
+	},
+	{
+		"name": "Hamburg",
+		"capital": "Hamburg",
+		"population": "1.748.000",
+		"size": "755"
+	},
+	{
+		"name": "Hesse",
+		"capital": "Wiesbaden",
+		"population": "6.040.000",
+		"size": "21.115"
+	},
+	{
+		"name": "Lower Saxony",
+		"capital": "Hanover",
+		"population": "7.792.000",
+		"size": "47.609"
+	},
+	{
+		"name": "Mecklenburg-Vorpommern",
+		"capital": "Schwerin",
+		"population": "1.597.000",
+		"size": "23.180"
+	},
+	{
+		"name": "North Rhine-Westphalia",
+		"capital": "Düsseldorf",
+		"population": "17.564.000",
+		"size": "34.085"
+	},
+	{
+		"name": "Rhineland-Palatinate",
+		"capital": "Mainz",
+		"population": "3.993.000",
+		"size": "19.853"
+	},
+	{
+		"name": "Saarland",
+		"capital": "Saarbrücken",
+		"population": "992.000",
+		"size": "2.569"
+	},
+	{
+		"name": "Saxony",
+		"capital": "Dresden",
+		"population": "4.044.000",
+		"size": "18.416"
+	},
+	{
+		"name": "Saxony-Anhalt",
+		"capital": "Magdeburg",
+		"population": "2.247.000",
+		"size": "20.446"
+	},
+	{
+		"name": "Schleswig-Holstein",
+		"capital": "Kiel",
+		"population": "2.820.000",
+		"size": "15.799"
+	},
+	{
+		"name": "Thuringia",
+		"capital": "Erfurt",
+		"population": "2.161.000",
+		"size": "16.172"
+	}
+]
